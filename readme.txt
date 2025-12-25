@@ -1,5 +1,5 @@
 welcome to my repository
 im learning git for now, not github
-git tester
+it's differnet in master
 I added this line in the update-readme branch.
-more lines to add
+i want to see a fight 
